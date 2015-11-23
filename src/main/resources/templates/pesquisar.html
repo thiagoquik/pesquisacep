@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+	xmlns:layout="http://www.ultraq.net.nz/web/thymeleaf/layout"
+	layout:decorator="index" lang="pt-br">
+
+<body>
+	<div layout:fragment="content" class="container">
+		<div class="css-caixa">
+			<section id="forms">
+				<h2>Pequisa de Cep</h2>
+				<div class="css-caixa--ff">
+					<form class="mainForm" action="" method="GET">
+						<div class="form-group">
+							<input type="text" name="txtCep" id="txtCep"
+								placeholder="Digite aqui o CEP que deseja buscar"
+								class="form-control" th:required="required" maxlength="8" />
+						</div>
+
+						<button type="submit" id="btnBuscar"
+							class="btn btn-embossed btn-primary form-group">Buscar</button>
+						<br></br>
+						<br></br>
+						<div class="col-md-12">
+							<label id="endereco"></label>
+						</div>
+					</form>
+				</div>
+			</section>
+		</div>
+	</div>
+</body>
+</html>

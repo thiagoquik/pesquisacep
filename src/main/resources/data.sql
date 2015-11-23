@@ -1,0 +1,10 @@
+INSERT INTO CEP (ID_CEP, NUM_CEP, LOGRADOURO, BAIRRO, CIDADE, ESTADO) VALUES (1, '09175260', 'Rua Das Boninas', 'Vila Helena', 'Santo André', 'São Paulo');
+INSERT INTO CEP (ID_CEP, NUM_CEP, LOGRADOURO, BAIRRO, CIDADE, ESTADO) VALUES (2, '09178523', 'Rua Bororé', 'Vila Junqueira', 'Santo André', 'São Paulo');
+INSERT INTO CEP (ID_CEP, NUM_CEP, LOGRADOURO, BAIRRO, CIDADE, ESTADO) VALUES (3, '09464000', 'Rua Do Sacramento', 'Rudge Ramos', 'São Bernardo do Campo', 'São Paulo');
+INSERT INTO CEP (ID_CEP, NUM_CEP, LOGRADOURO, BAIRRO, CIDADE, ESTADO) VALUES (4, '30000000', 'Rua Topazio', 'Bairro Jardim', 'Santo André', 'São Paulo');
+INSERT INTO CEP (ID_CEP, NUM_CEP, LOGRADOURO, BAIRRO, CIDADE, ESTADO) VALUES (5, '07548967', 'Avenida Visconde', 'Nova Gerty', 'São Caetano do Sul', 'São Paulo');
+INSERT INTO CEP (ID_CEP, NUM_CEP, LOGRADOURO, BAIRRO, CIDADE, ESTADO) VALUES (6, '06587300', 'Avenida Vergueiro', 'Planalto', 'São Bernardo do Campo', 'São Paulo');
+INSERT INTO CEP (ID_CEP, NUM_CEP, LOGRADOURO, BAIRRO, CIDADE, ESTADO) VALUES (7, '78000000', 'Rua Caravelas', 'Vila Pires', 'Santo André', 'São Paulo');
+INSERT INTO CEP (ID_CEP, NUM_CEP, LOGRADOURO, BAIRRO, CIDADE, ESTADO) VALUES (8, '12345678', 'Rua Aranha', 'Vila Batistini', 'São Bernardo do Campo', 'São Paulo');
+INSERT INTO CEP (ID_CEP, NUM_CEP, LOGRADOURO, BAIRRO, CIDADE, ESTADO) VALUES (9, '98765432', 'Avenida Kennedy', 'Centro', 'São Caetano do Sul', 'São Paulo');
+INSERT INTO CEP (ID_CEP, NUM_CEP, LOGRADOURO, BAIRRO, CIDADE, ESTADO) VALUES (10, '14725836', 'Rua Bom Pastor', 'Bairro Baeta Neves', 'São Bernardo do Campo', 'São Paulo');
